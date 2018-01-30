@@ -1,2 +1,3 @@
+
 # statistcal-mechanics
-markov chains , monte carlo algorithms, metropolis algorithms and many more
+All codes of  **COURSERA** course **STATISTICAL MECHANICS** 
